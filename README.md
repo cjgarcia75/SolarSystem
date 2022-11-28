@@ -2,7 +2,7 @@
 ### Christian Garcia
 
 # Project description
-This project is an interactive solar system using Assimp to load models and stb_image.h to load textures
+This project is an interactive solar system using OpenGL, Assimp to load models, and stb_image.h to load textures
 
 GROUP PROJECT: My teammate was Jake Lahr.
 
