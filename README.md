@@ -1,10 +1,10 @@
-# PA7: Solar System
+# Solar System
 ### Christian Garcia
 
 # Project description
 This project is an interactive solar system using Assimp to load models and stb_image.h to load textures
 
-GROUP PROJECT: My teammate is Jake Lahr. Grade this project.
+GROUP PROJECT: My teammate was Jake Lahr.
 
 ## Extra Credit
 We used a config file for the values of the planets.
